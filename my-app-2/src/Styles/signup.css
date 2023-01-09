@@ -1,0 +1,123 @@
+.Boginoo-login{
+    width: 100%;
+    height: 100vh;
+    background-color: aliceblue;
+}
+.Header{
+    width: 100%;
+    height: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+.Usage2{
+    width: 350px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+    color: #02B589;
+    cursor: pointer;
+    margin-right: 50px;
+}
+.Body{
+    width: 100%;
+    height: 80%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+.Big-Logo{
+    width: 30%;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.Title{
+    color: #02B589;
+    font-family: fantasy;
+    font-size: 70px;
+}
+.User2{
+    width: 50%;
+    height: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+.Login-Logo{
+    color: #02B589;
+    font-size: 40px;
+}
+.Mail-Header{
+    width: 30%;
+}
+.Mail{
+    width: 100%;
+    margin-bottom: 10px;
+}
+.Mail-input{
+    width: 100%;
+    border: 1px solid grey;
+    border-radius: 500px;
+    height: 35px;
+    text-align: center;
+}
+.Password-Header{
+    width: 30%;
+}
+.Password{
+    width: 100%;
+    margin-bottom: 10px;
+}
+.Password-input{
+    width: 100%;
+    border: 1px solid gray;
+    border-radius: 500px;
+    height: 35px;
+    text-align: center;
+}
+.Repeat-Header{
+    width: 30%;
+}
+.Repeat{
+    width: 100%;
+    margin-bottom: 10px;
+}
+.Repeat-Password{
+    width: 100%;
+    border: 1px solid gray;
+    border-radius: 500px;
+    height: 35px;
+    text-align: center;
+}
+.Signup-button{
+    width: 150px;
+    height: 35px;
+    border-radius: 500px;
+    background-color: #02B589;
+    border: hidden;
+    cursor: pointer;
+    color: white;
+    font-size: 15px;
+}
+.Signin{
+    color: #02B589;
+}
+.Footer{
+    width: 100%;
+    height: 10%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.Date{
+    color: gray;
+}
